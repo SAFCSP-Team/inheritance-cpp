@@ -14,6 +14,11 @@ Create a hierarchy of `animals` using `inheritance` to represent different speci
 * Implement derived classes for specific animal species, such as Mammals and Birds with unique properties and behaviors.
 * Override the eat() and sound() methods in each derived class to provide specialized implementations.
 
-  ```cpp
+```cpp
+#include <iostream>
 
-  ```
+int main() {
+
+    return 0;
+}
+```
