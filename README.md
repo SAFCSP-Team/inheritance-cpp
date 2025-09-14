@@ -1,15 +1,15 @@
 # Inheritance
 
 
- **Objective**
+ ### **Objective**
  
 In this project, we will learn about inheritance in C++ and how it can be applied to create a hierarchy of related classes with shared properties and behaviors.
 
-**Problem**
+### **Problem**
 
 Create a hierarchy of animals using `inheritance` to represent different species and their characteristics.
 
-**Implementation**
+### **Implementation**
 
 * Create a base class named `Animal` that initializes name and age attributes, and `eat()` and `sound()` methods.
 * Implement derived classes for specific animal species, such as `Mammal` and `Bird`, with unique properties and behaviors.
